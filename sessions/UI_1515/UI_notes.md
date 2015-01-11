@@ -9,6 +9,6 @@
 - To run a new collection, create one in an etherpad and put the /export/txt link in the page.
 - Add a nice unique tag then hit the process button
 
-** WARNING:** Because this is a bleeding edge preview, at the moment this will block the UI and the site will become unresponsive until it finishes processing, please bear with us!
+**WARNING:** Because this is a bleeding edge preview, at the moment this will block the UI and the site will become unresponsive until it finishes processing, please bear with us!
 
 Once it is done the /facts page will start operating again and you will be able to find your fact output there.
